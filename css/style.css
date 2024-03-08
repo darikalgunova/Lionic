@@ -409,6 +409,16 @@ color: #787878;
   color: #787878;
 }
 
+/* form */
+
+.join-us-title {
+  text-align: center;
+}
+
+.join-us-descr {
+  margin-bottom: 35px;
+}
+
 /* footer */
 
 .footer {
