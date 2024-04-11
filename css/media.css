@@ -1,0 +1,5 @@
+@media (max-wight: 1200px) {
+    .form__input, .form__select {
+        width: 100%;
+    }
+}
